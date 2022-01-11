@@ -1,0 +1,3 @@
+C:/Users/mkarb/OneDrive/Pulpit/ProgramyC/cmake-build-debug/CMakeFiles/ProgramyC.dir
+C:/Users/mkarb/OneDrive/Pulpit/ProgramyC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mkarb/OneDrive/Pulpit/ProgramyC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
